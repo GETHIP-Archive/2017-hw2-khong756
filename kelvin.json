@@ -1,0 +1,10 @@
+{
+    "firstName":"Kelvin",
+    "lastName":"Hong",
+    "age":17,
+    "picture": "https://www.campus.mpsomaha.org/campus/personPicture.jsp?personID=48157&alt=logo",
+    "hobbys": [
+        {"hobby": "cars"},
+        {"hobby": "computers"}
+    ]
+}
